@@ -1,0 +1,6 @@
+node_modules/*
+*.pem
+citykids.pem
+package-lock.json
+.DS_Store
+src/public/
